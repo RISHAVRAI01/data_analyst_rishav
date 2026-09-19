@@ -71,7 +71,7 @@ Analyzed supply chain data to evaluate revenue performance, inventory, supplier 
 | Inspection Fail Rate | 36.00% |
 | Average Total Cycle Time | 37.60 |
 
- **Project:** [`supply_chain`](./supply_chain)
+ **Project:** [`supply_chain`](./supply_chain_analysis)
 
 ---
 
@@ -114,7 +114,7 @@ Analyzed Brazilian e-commerce sales data to understand sales performance, custom
 - Late deliveries were associated with lower review scores.
 - Most customers were one-time purchasers.
 
- **Project:** [`e-commerce`](./e-commerce)
+ **Project:** [`e-commerce`](./ecommerce_analysis)
 
 ---
 
