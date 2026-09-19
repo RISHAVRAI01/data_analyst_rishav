@@ -41,7 +41,3 @@ Analyzed a supply chain dataset to understand revenue performance, inventory lev
 - Seaborn
 - Power BI
 - DAX
-- Generative AI
-
-## AI Disclosure
-Generative AI was used to assist with code development, debugging, analysis structure, KPI selection, and dashboard design.
